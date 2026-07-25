@@ -19,12 +19,14 @@ Pradeep Kumar Polisetti
 ║ USER............. Pradeep Kumar Polisetti                          ║
 ║ ROLE............. B.Tech Student                                   ║
 ║ OS............... Windows 11                                       ║
-║ UPTIME........... 19 Years (Human Edition 😄)                      ║
-║ KERNEL........... MirAI School of Technology                       ║
+║ UPTIME........... 19 Years (Human Edition 😄)                     ║
+║ KERNEL........... AI and Cybersecurity                             ║
 ║ SHELL............ GitHub README Terminal                           ║
 ║ LANGUAGE.......... Python                                          ║
 ║ EDITOR............ VS Code                                         ║
 ║ STATUS............ Learning Every Day                              ║
+║ HOBBIES........... Learning AI | Cybersecurity | Gaming            ║
+║ CONTACT........... pradeepkumar.polisetti@gmail.com                ║         
 ╠══════════════════════════════════════════════════════════════════════╣
 ║ CURRENTLY LEARNING                                                 ║
 ║   • Artificial Intelligence                                        ║
@@ -86,7 +88,7 @@ Have a great day 🚀
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pradeepkumarpolisetti&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pradeepkumarpolisetti&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepkumarpolisetti&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -94,14 +96,6 @@ Have a great day 🚀
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=pradeepkumarpolisetti&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pradeepkumarpolisetti&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
