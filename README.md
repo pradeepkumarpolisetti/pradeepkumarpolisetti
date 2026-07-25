@@ -13,13 +13,13 @@
 $ whoami
 Pradeep Kumar Polisetti
 
-╔══════════════════════════════════════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════╗
 ║                    SYSTEM INFORMATION                              ║
-╠══════════════════════════════════════════════════════════════════════╣
+╠════════════════════════════════════════════════════════════════════╣
 ║ USER............. Pradeep Kumar Polisetti                          ║
 ║ ROLE............. B.Tech Student                                   ║
 ║ OS............... Windows 11                                       ║
-║ UPTIME........... 19 Years (Human Edition 😄)                     ║
+║ UPTIME........... 19 Years (Human Edition 😄)                      ║
 ║ KERNEL........... AI and Cybersecurity                             ║
 ║ SHELL............ GitHub README Terminal                           ║
 ║ LANGUAGE.......... Python                                          ║
@@ -27,22 +27,22 @@ Pradeep Kumar Polisetti
 ║ STATUS............ Learning Every Day                              ║
 ║ HOBBIES........... Learning AI | Cybersecurity | Gaming            ║
 ║ CONTACT........... pradeepkumar.polisetti@gmail.com                ║         
-╠══════════════════════════════════════════════════════════════════════╣
+╠════════════════════════════════════════════════════════════════════╣
 ║ CURRENTLY LEARNING                                                 ║
 ║   • Artificial Intelligence                                        ║
 ║   • Cybersecurity                                                  ║
 ║   • Linux                                                          ║
 ║   • Git & GitHub                                                   ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ INTERESTS                                                         ║
+╠════════════════════════════════════════════════════════════════════╣
+║ INTERESTS                                                          ║
 ║   • Ethical Hacking                                                ║
 ║   • Artificial Intelligence                                        ║
 ║   • Open Source                                                    ║
 ║   • Automation                                                     ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ MISSION                                                           ║
+╠════════════════════════════════════════════════════════════════════╣
+║ MISSION                                                            ║
 ║   Learn. Build. Secure. Repeat.                                    ║
-╚══════════════════════════════════════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════╝
 
 $ python --version
 Python 3.x
